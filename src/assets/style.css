@@ -1,0 +1,20 @@
+
+body{
+    min-height: 100vh;
+    background-color: #dbdee2!important;
+}
+a{
+    color: white !important;
+}
+.bg-white{
+    background-color: white;
+}
+.red-color{
+    color: red;
+}
+.blue-color{
+    color: #49b1d1 !important ;
+}
+.black-color{
+    color: black !important ;
+}
